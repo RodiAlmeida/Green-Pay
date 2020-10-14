@@ -1,0 +1,8 @@
+{
+  "name": "GreenPay",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
